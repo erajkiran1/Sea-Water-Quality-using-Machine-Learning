@@ -28,3 +28,5 @@ We,Then Cleaned The Data :
   *        R2_Score (R-Square score) and RMSE (Root mean Square Error) of Train Data scores, Cross validation score,and Test Data Scores
   *  Then Selected the Best Model using METRICS Comparison and Found RANDOM FOREST as Best Model and Given New Data, it is Predicing with Minimum Error
   *   Given that model To the MINISTRY OF EARTH SCIENCE 
+
+# Thanks To Prof.Madhu(Ph.D),for Recommending me For the Hackathon among  350 Students in COMPUTER SCIENCE DEPARTMENT,GURU NANAK INSTITUTIONS,Hyderabad... 
