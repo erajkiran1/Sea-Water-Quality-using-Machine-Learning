@@ -22,7 +22,7 @@ We,Then Cleaned The Data :
   * Done train_test_split on the Data..
   * Then Proceeded with MODEL BUILDING.. :
   *  Fed Data (X_train to Different Models that include  :
-  *       1. Linear Regression, 2. Decision Trees,3. Random Forest,4. Stochastic Gradient Boosting,5. Lasso,6. Linear Support vector Regressor
+  *       1. Linear Regression, 2. Decision Trees,3. Random Forest,4. Stochastic Gradient Boosting,5. Lasso,6. Linear Support vector Regressor,K-NN
   *  Cross Validation Done...
   *  Then Calculated  METRICS Such as : 
   *        R2_Score (R-Square score) and RMSE (Root mean Square Error) of Train Data scores, Cross validation score,and Test Data Scores
