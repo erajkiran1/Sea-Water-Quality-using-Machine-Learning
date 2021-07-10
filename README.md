@@ -8,6 +8,8 @@ We have Given the Dataset with Features..
 
 It is a supervised Learning Problem ..
 
+# Approach
+
 # Supervised Learning Problem : Given Set of 'X's' , Predict 'Y'...
 
 The Dataset contains all Features as Objects Datatypes with Many NaN Values. It is challening for us and it is Not Good to Proceed MODEL BUILDING with the UNCLEANED DATA...
