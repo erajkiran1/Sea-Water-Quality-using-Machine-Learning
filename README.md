@@ -1,4 +1,28 @@
 # Sea-Water-Quality-using-Machine-Learning
 
 I was Selected For SMART INDIA HACKATHON,Conducted By Government of India, where we have Given a Problem to solve, By the MINISTRY OF EARTH SCIENCE,Govt of india...
-It was to Predict the quality of water by considering the given Features...
+
+The Problem Statement was "To Predict the quality of water by considering the given Features..."
+
+We have Given the Dataset with Features..
+
+It is a supervised Learning Problem ..
+
+# Supervised Learning Problem : Given Set of 'X's' and Predict Predict 'Y'...
+
+The Dataset contains all Features as Objects Datatypes with Many NaN Values. It is challening for us to Proceed with the UNCLEANED DATA...
+
+We,Then Cleaned The Data :
+  * Filled the Missing Values using Imputation Techniques...
+  * Converted the Datatype of all Features to Categorical Datatypes using "astype('category')" function...
+  * Lebel Encoded the Values for each Feature..
+  * Then proceeded with the Insights and correlation of variables...
+  * Done train_test_split on the Data..
+  * Then Proceeded with MODEL BUILDING.. :
+  *  Fed Data (X_train to Different Models that include  :
+  *       1. Linear Regression, 2. Decision Trees,3. Random Forest,4. Stochastic Gradient Boosting,5. Lasso,6. Linear Support vector Regressor
+  *  Cross Validation Done...
+  *  Then Calculated  METRICS Such as : 
+  *        R2_Score (R-Square score) and RMSE (Root mean Square Error) of Train Data scores, Cross validation score,and Test Data Scores
+  *  Then Selected the Best Model using METRICS Comparison and Found RANDOM FOREST as Best Model and Given New Data, it is Predicing with Minimum Erros (Given RMSE Range)
+  *   Given that model To the MINISTRY OF EARTH SCIENCE 
